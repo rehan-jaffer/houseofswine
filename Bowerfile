@@ -1,0 +1,4 @@
+asset 'underscore'
+asset 'handlebars'
+asset 'angularjs'
+asset 'angular-resource'
